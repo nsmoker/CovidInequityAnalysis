@@ -81,9 +81,12 @@ make the clustering. I computed the difference in unemployment between April of 
 and March of 2020. I found that this correlated well with a number of the variables from the Opportunity files, and decided
 I would try to classify counties by how severe the spike in unemployment was for them in April. To do this, I used four 
 parameters for classification: The first was Absolute Upward Mobility, which predicts the change in income percentile that a child growing
-up in the 25th income percentile of the nation will experience as an adult in a county; The second was Interquartile Income Range; 
+up in the 25th income percentile of the nation will experience as an adult in a county (I've visualized this one below, it's a
+fascinating stat); The second was Interquartile Income Range; 
 The third was the value of the 25th income percentile of adults in a county who themselves grew up in the nation's 25th income percentile;
 Finally, the fourth was the median income of parents in a county.
+
+![alt text](plots/aumGeoPlot.png)
 
 I began with a gradient boosted tree classifier, and sought to classify the data into counties which experienced a spike in 
 unemployment rate above 10%, and those who experience a spike of less than 10%. Using the four factors I mentioned, 
