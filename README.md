@@ -9,8 +9,8 @@ and it's stuck with me ever since. Several of the facts brought to light in that
 A person growing up in Southern California has far more chance to succeed in life than someone growing up in Atlanta, and
 that is shocking in a nation that it supposed to be centered on opportunity to gain wealth. 
 
-With this project, I wanted to explore whether or not communities affected by inequality and lack of upward mobility
-have been significantly affected by the COVID-19 pandemic. The pandemic is interesting because there are multiple 
+With this project, I wanted to explore the extent to which communities affected by inequality and lack of upward mobility
+have been affected by the COVID-19 pandemic. The pandemic is interesting because there are multiple 
 facets to its impact: unemployment, infection rates, and a misinformation epidemic have all been rolled into one.
 The goal of this project was just to see what those effects looked like specifically for communities with higher levels
 of inequity, and to see if I could get a classifier or clustering algorithm to find some interesting results on that topic. 
