@@ -106,3 +106,5 @@ problem can tell us something. Since the nationwide unemployment spike was just 
 whether or not a county will have been affected less, more, or on par with the national average. **This is an encouraging result,
 and the fact that its classification is entirely based on indicators of inequity leads me to answer my second questions with a resounding
 _yes_**.
+
+A big part of my process in general was loading in different data files to see what kind of correlation they had with variables I wanted to analyze. I had to have looked at 10+ correlation matrices for this project. What I mention above is mostly just what led to my most interesting results that answer my questions. A ton of other analysis went into exploring the data and looking for correlations that might be suitable for learning.  
